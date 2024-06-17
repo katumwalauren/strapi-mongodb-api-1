@@ -23,8 +23,8 @@
 				"rangav.vscode-thounder-client"
 			],
 			"settings": {
-				"editor.fontSize": 27,
-				"terminal.integrated.fontSize": 27
+				"editor.fontSize": 11,
+				"terminal.integrated.fontSize": 11
 			}
 		}
 	}
