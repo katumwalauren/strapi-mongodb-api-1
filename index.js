@@ -1,8 +1,8 @@
-console.log("Lauren this is codespace")
+//console.log("Lauren this is codespace")
 
 const app = require('./app')
 
-const {PORT} = express.env
+const {PORT} = process.env
 
 app.listen(PORT, () => {
     console.log(`server is running at port:${PORT}`)
