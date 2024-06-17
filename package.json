@@ -1,0 +1,12 @@
+{
+  "name": "strapi-mongodb-api",
+  "version": "1.0.0",
+  "description": "An auth system totally designed in github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
